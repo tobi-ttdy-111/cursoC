@@ -1,0 +1,18 @@
+
+TEMAS
+
+- Variables
+    - librerias
+    - macrolibrerias
+    - variables globales
+
+- Salida de variables
+    - int ( %i )
+    - float ( %f )
+    - float ( %.xf )
+
+- Operadores aritmeticos
+    - suma +
+    - resta -
+    - multiplicacion *
+    - division /

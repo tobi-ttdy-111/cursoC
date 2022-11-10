@@ -1,0 +1,38 @@
+
+REQUISITOS ( PSICOLÓGICOS / ADQUISITIVOS )
+
+
+No saber progamar
+Levantarse temprano
+Ganas de aprender un lenguaje que ya casi ni se usa
+Tener dinero B)
+
+
+
+
+
+REQUISITOS ( SOFTWARE )
+
+Editor: VSCode
+
+Traspilador / Compilador: MSYS2
+https://www.youtube.com/watch?v=v3ENcQpoA5A 	fazt
+https://www.youtube.com/watch?v=i7QAOdkQovI	    Charly
+https://www.youtube.com/watch?v=OwQobefF-iE	    ( ingles )
+devc++                                          ( no recomendada )
+
+Extensiones: ( completamente opcional )
+Ayu
+C/C++ Microsoft -- recomendada
+Color Highlight
+GlassIt-VSC
+Material Icon Theme
+Spanish Language
+
+
+
+
+
+GRUPO WHATSAPP
+
+Curso C: https://chat.whatsapp.com/HPFBR1h3ABL78EchL6lmJ9

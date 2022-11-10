@@ -1,0 +1,10 @@
+
+TEMAS
+
+- Tipos de datos
+    - short     ( %i )
+    - int       ( %i )
+    - long      ( %i )
+    - float     ( %f )
+    - double    ( %f )
+    - char      ( %c )

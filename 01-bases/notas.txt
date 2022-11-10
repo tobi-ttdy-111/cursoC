@@ -1,0 +1,23 @@
+
+TEMAS
+
+- Directivas del preprocesador
+    - librerias
+        #include <stdio.h>
+        #include <stdlib.h>
+        #include <string.h>
+        #include <math.h>
+    - macrolibrerias
+        #define PI 3.1416
+
+- Funcion main
+    - main
+    - return
+
+- Salida de datos
+    - printf
+    - caracter \n
+
+- Codigo ordenado y comentado
+    - identación
+    - comentarios
