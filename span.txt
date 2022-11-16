@@ -1,0 +1,21 @@
+
+// PARTICIPACIONES
+angel           4.5
+yoset           3
+Mauricio        2
+
+
+
+// OBJETIVO HOY
+Hacer una aplicacion (en C oviamente) que permita al usuario crear un arreglo de n numero de datos, y que este mismo pueda rellenar ese arreglo (con numeros enteros), al final imprimir cada numero separado por un mas y calcular la suma de todos ellos
+
+salida:
+10 + 1 + 3 + 45 + 10 + 15 = 123
+
+
+Mañana calculamos de un arreglo dinamico
+Numero mayor
+Numero menor
+Media
+
+Y hacemos un app de consola que nos sirva para ordenar la cantidad de productos que tenemos almacenados
