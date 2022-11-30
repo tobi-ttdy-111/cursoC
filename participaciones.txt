@@ -1,0 +1,7 @@
+
+// PARTICIPACIONES
+YOSET       1
+MAURICIO    3
+MARLENE     5
+YAEL        4
+LEO         1

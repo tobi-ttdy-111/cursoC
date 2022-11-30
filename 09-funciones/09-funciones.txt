@@ -1,0 +1,10 @@
+
+<tipo de datos que regresa / void> <nombre> ( <tipo > nombre> ) {
+    // codigo
+}
+
+
+int sumar( int num1, int num2 ) {
+    int sumatoria = num1 + num2;
+    return sumatoria;
+};

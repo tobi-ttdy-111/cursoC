@@ -37,7 +37,6 @@ int main() {
     // valorActual = 9
     // numeroMayor = 9
 
-
     return 0;
 
 };
