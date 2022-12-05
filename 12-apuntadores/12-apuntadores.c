@@ -7,19 +7,19 @@
 void main() {
 
     int variable1 = 10;
-    int variable2 = 20;
-    int * variableAp = &variable1;
+    int variable2 = 15;
+    printf( "\nDireccion de memoria variable1: %X", &variable1 );
+    printf( "\nDireccion de memoria variable2: %X", &variable2 );
 
-    printf( "\nLa direccion de memoria de variable1 es: %X", &variable1 );
-    printf( "\nLa direccion de memoria de variable2 es: %X", &variable2 );
+    int * apVariable1 = &variable1;
+    printf( "\nDireccion de memoria apVariable1: %X", &apVariable1 );
+    printf( "\nDireccion de memoria apVariable1: %X", apVariable1 );
+    printf( "\nValor de: %i", * apVariable1 );
 
-    printf( "\nApuntador" );
-    printf( "\nLa direccion de memoria de variableAp es: %X", &variableAp );
-    printf( "\nLa direccion de memoria a la que apuinta variableAp es: %X", variableAp );
-    printf( "\nEl valor de variableAp es: %i", * variableAp );
+    * apVariable1 = 20;
+    printf( "\nValor de: %i", * apVariable1 );
+    printf( "\nValor de: %i", variable1 );
 
-    * variableAp = 45;
-    printf( "\nEl valor de variableAp es: %i", * variableAp );
-    printf( "\nEl valor de variable1 es: %i", variable1 );
+
 
 };
